@@ -1,0 +1,4 @@
+df['NEIGHBORHOOD'].value_counts()[:5].plot(kind='bar', figsize=(15, 6), rot=0)
+plt.xlabel("Neigborhood", labelpad=14)
+plt.ylabel("Count of Calls", labelpad=14)
+plt.title("Count of Calls per Neighborhood", y=1.02);
