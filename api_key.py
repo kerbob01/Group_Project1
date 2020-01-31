@@ -1,1 +1,3 @@
 Census_Key = '53c58132c3d99274b486420f5344149512f61503'
+# Google API Key
+g_key = "AIzaSyDmzXJIA7U2MIVr7LML2Xlzd7avO4dqxHo"
