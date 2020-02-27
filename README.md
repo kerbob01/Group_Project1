@@ -1,4 +1,4 @@
-1. run gmap_api.ipynb 
+1. run zip_to_df.ipynb 
 	this will pull the Zipcode from Google maps API and create file 311_with_zip.CSV with the 311 data
 
 2. run get_census_merg_311.ipynb
